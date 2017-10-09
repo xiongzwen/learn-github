@@ -1,5 +1,8 @@
 ## 一、关于readme.md文件
 README文件后缀名为md，md是markdown的缩写，markdown是一种编辑博客的语言。不过GitHub支持的语法在标准markdown语法的基础上做了修改，称为Github Flavored Markdown。 <br/>
+- https://github.com/guodongxiaren/README
+- http://wowubuntu.com/markdown/
+- http://markdown.tw/
 ## 二、标题（#后面要空一格）
 直接输入的文字就是普通文本,使用两个Tab符实现单行文本。使用回撤换行是不生效的，需要使用 \<br/> (如果要打出\<br/>需要在前面加上\反斜杠转义)。这些和html里面的标签很相像。 <br/>
 可以用#表示几级标题，<br/>
